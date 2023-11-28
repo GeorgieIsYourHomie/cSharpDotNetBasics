@@ -1,0 +1,14 @@
+/Users/georgie/Documents/Software Engineer/software-dev/practice/cSharpDotNEt/cSharpDotNetBasics/bin/Debug/net7.0/cSharpDotNetBasics
+/Users/georgie/Documents/Software Engineer/software-dev/practice/cSharpDotNEt/cSharpDotNetBasics/bin/Debug/net7.0/cSharpDotNetBasics.deps.json
+/Users/georgie/Documents/Software Engineer/software-dev/practice/cSharpDotNEt/cSharpDotNetBasics/bin/Debug/net7.0/cSharpDotNetBasics.runtimeconfig.json
+/Users/georgie/Documents/Software Engineer/software-dev/practice/cSharpDotNEt/cSharpDotNetBasics/bin/Debug/net7.0/cSharpDotNetBasics.dll
+/Users/georgie/Documents/Software Engineer/software-dev/practice/cSharpDotNEt/cSharpDotNetBasics/bin/Debug/net7.0/cSharpDotNetBasics.pdb
+/Users/georgie/Documents/Software Engineer/software-dev/practice/cSharpDotNEt/cSharpDotNetBasics/obj/Debug/net7.0/cSharpDotNetBasics.GeneratedMSBuildEditorConfig.editorconfig
+/Users/georgie/Documents/Software Engineer/software-dev/practice/cSharpDotNEt/cSharpDotNetBasics/obj/Debug/net7.0/cSharpDotNetBasics.AssemblyInfoInputs.cache
+/Users/georgie/Documents/Software Engineer/software-dev/practice/cSharpDotNEt/cSharpDotNetBasics/obj/Debug/net7.0/cSharpDotNetBasics.AssemblyInfo.cs
+/Users/georgie/Documents/Software Engineer/software-dev/practice/cSharpDotNEt/cSharpDotNetBasics/obj/Debug/net7.0/cSharpDotNetBasics.csproj.CoreCompileInputs.cache
+/Users/georgie/Documents/Software Engineer/software-dev/practice/cSharpDotNEt/cSharpDotNetBasics/obj/Debug/net7.0/cSharpDotNetBasics.dll
+/Users/georgie/Documents/Software Engineer/software-dev/practice/cSharpDotNEt/cSharpDotNetBasics/obj/Debug/net7.0/refint/cSharpDotNetBasics.dll
+/Users/georgie/Documents/Software Engineer/software-dev/practice/cSharpDotNEt/cSharpDotNetBasics/obj/Debug/net7.0/cSharpDotNetBasics.pdb
+/Users/georgie/Documents/Software Engineer/software-dev/practice/cSharpDotNEt/cSharpDotNetBasics/obj/Debug/net7.0/cSharpDotNetBasics.genruntimeconfig.cache
+/Users/georgie/Documents/Software Engineer/software-dev/practice/cSharpDotNEt/cSharpDotNetBasics/obj/Debug/net7.0/ref/cSharpDotNetBasics.dll
